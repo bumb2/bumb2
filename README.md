@@ -92,7 +92,7 @@ In my free time, I study PS and read tech articles.
   
 ### 🔥 My Stats:
 
-![bumbi's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumb2&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumb2&theme=vision-friendly-dark&show_icons=true)
 
 
 ### 🤖 Baekjoon algorithm:
