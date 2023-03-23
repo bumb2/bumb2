@@ -57,7 +57,7 @@ In my free time, I study PS and read tech articles.
   <!-- styled-components 뱃지 -->
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <!-- AntDesign 뱃지 -->
-    <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=06B6D4"/>
+    <img src="https://img.shields.io/badge/AntDesign-0170FE?style=flat-square&logo=AntDesign&logoColor=white"/>
   <!-- tailwind 뱃지 -->
     <img src="https://img.shields.io/badge/TailwindCSS-232F3E?style=flat-square&logo=tailwindCss&logoColor=06B6D4"/>
   </div>
