@@ -8,7 +8,7 @@
   <!-- 블로그 뱃지 -->
   <a href="https://blog.bumbi.dev" target="_blank"><img src="https://img.shields.io/badge/bumbi-FF9153?style=flat-square&logo=Sencha&logoColor=FFFFFF"/></a>
   <!-- 지메일 뱃지 -->
-  <a href="heb2021@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bbumbb2@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
+  <a href="mailto:bbumbb2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/bbumbb2@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF"/></a>
   <!-- 인스타그램 뱃지 -->
   <a href="https://instagram.com/bum_b2?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/eunbi-E4405F?style=flat-square&logo=instagram&logoColor=FFFFFF"/></a>
   <!-- 포트폴리오 뱃지 -->
