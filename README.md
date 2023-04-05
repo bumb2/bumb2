@@ -71,16 +71,8 @@ In my free time, I study PS and read tech articles.
     <img src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=Prettier&logoColor=black"/>
   <!-- ESLint 뱃지 -->
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-  <!-- Xcode 뱃지 -->
-    <img src="https://img.shields.io/badge/Xcode-334455?style=flat-square&logo=Xcode&logoColor=147EFB"/>
-  <!-- AndroidStudio 뱃지 -->
-    <img src="https://img.shields.io/badge/AndroidStudio-334455?style=flat-square&logo=AndroidStudio&logoColor=3DDC84"/>
   <!-- VisualStudio 뱃지 -->
     <img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
-  <!-- Linear 뱃지 -->
-    <img src="https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=Linear&logoColor=white"/>
-  <!-- Jira 뱃지 -->
-    <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <!-- Firebase 뱃지 -->
     <img src="https://img.shields.io/badge/Firebase-1D2C54?style=flat-square&logo=Firebase&logoColor=FFCA28"/>
   <!-- Sentry 뱃지 -->
