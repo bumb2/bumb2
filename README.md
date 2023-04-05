@@ -27,7 +27,7 @@ Hi there 🙌
 I'm passionate frontend developer building my world one step at a time.
 I love to explore new technologies and leverage them to solve real-life problems.
 I'm currently interested in React, Typescript.
-In my free time, I study PS and read tech articles.
+In my free time, I read tech articles.
 
   <br/>
   
