@@ -86,10 +86,10 @@ In my free time, I study PS and read tech articles.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumb2&theme=vision-friendly-dark&show_icons=true)
 
-
+<!-- 
 ### 🤖 Baekjoon algorithm:
 [![Solved.ac bumbi](http://mazassumnida.wtf/api/v2/generate_badge?boj=bumbi)](https://solved.ac/bumbi)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=bumbi&theme=dark)
 
 </div>
-
+-->
